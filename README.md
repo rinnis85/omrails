@@ -5,4 +5,4 @@ This is the sample application for
 
 by [Mattan Griffel](http://mattangriffel.com) 
 
-Skill Share Project by [Robert C. Innis](confusedyetamused.wordpress.com)
+Skill Share Project by [Robert C. Innis](http://www.confusedyetamused.wordpress.com)
